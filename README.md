@@ -69,7 +69,7 @@ ellipse(screen, 'blue', (900, 535, 80, 30))
 ellipse(screen, 'yellow', (820, 542, 80, 30))
 ellipse(screen, 'blue', (1060, 535, 80, 30))
 ellipse(screen, 'yellow', (980, 542, 80, 30))
-
+polygon(screen, 'yellow', [(880,100), (920, 100), (900, 3), (880, 100)])
 polygon(screen, 'red', [(100, 500), (200, 450), (300, 500), (100, 500)])
 rect(screen, 'orange', (195, 500, 10, 200))
 line(screen, '#592D00', [200, 450], [120, 500])
